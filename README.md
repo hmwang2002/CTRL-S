@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<a href=''><img src='https://img.shields.io/badge/arXiv-coming soon-b31b1b?logo=arXiv'></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://arxiv.org/abs/2603.16189'><img src='https://img.shields.io/badge/arXiv-2603.16189-b31b1b?logo=arXiv'></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/datasets/InternSVG/SVG-Sophia"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset%20-HF-orange"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
@@ -17,7 +17,7 @@ Official repository of **"Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Re
 ## 📢 News
 
 - **[2026-03-18]** 🎉 **SVG-Sophia** is now available on HuggingFace! 🤗[Dataset](https://huggingface.co/datasets/InternSVG/SVG-Sophia)
-- **[2026-03-18]** 👋 Upload paper and init project. [Read]()
+- **[2026-03-18]** 👋 Upload paper and init project. [Read](https://arxiv.org/abs/2603.16189)
 
 ## 📝 Open-Source Plan
  - [ ] Training scripts
