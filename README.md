@@ -120,5 +120,18 @@ CTRL-S is licensed under the [Apache License 2.0](./LICENSE).
 ## 📖 Citation
 
 ```BibTex
+@article{wang2026reliable,
+  title={Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning},
+  author={Wang, Haomin and Wei, Qi and Ma, Qianli and Ding, Shengyuan and Yin, Jinhui and Chen, Kai and Zhang, Hongjie},
+  journal={arXiv preprint arXiv:2603.16189},
+  year={2026}
+}
 
+@inproceedings{wang2025internsvg,
+    author = "Haomin Wang and Jinhui Yin and Qi Wei and Wenguang Zeng and Lixin Gu and Shenglong Ye and Zhangwei Gao and Yaohui Wang and Yanting Zhang and Yuanqi Li and Yanwen Guo and Wenhai Wang and Kai Chen and Yu Qiao and Hongjie Zhang",
+    title = "Internsvg: Towards unified svg tasks with multimodal large language models",
+    booktitle={The Fourteenth International Conference on Learning Representations},
+    year={2026},
+    url={https://openreview.net/forum?id=YxqnNNs3sf}
+}
 ```
