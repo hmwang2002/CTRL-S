@@ -61,6 +61,7 @@ test_data/
 *.json
 *.jsonl
 *.log
+!training/long_clip/model/bpe_simple_vocab_16e6.txt.gz
 
 # OS
 .DS_Store
